@@ -1,0 +1,28 @@
+{
+    "version": 2,
+    "styles": {
+        "blocks": {
+            "core/button": {
+                "color": {
+                    "text": "#FFFFFF",
+                    "background": "#480323"
+                }
+            }
+        }
+    },
+    "settings": {
+        "typography": {
+            "fontSizes": []
+        },
+        "blocks": {
+            "core/button": {
+                "border": {
+                    "color": false,
+                    "radius": false,
+                    "style": false,
+                    "width": false
+                }
+            }
+        }
+    }
+}

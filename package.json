@@ -1,0 +1,19 @@
+{
+  "name": "theblocktheme",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "wp-scripts start src/index.js the-blocks/container.js the-blocks/navbar.js the-blocks/videos.js the-blocks/archivesidebar.js the-blocks/searchresults.js the-blocks/notfound.js the-blocks/archiveposts.js the-blocks/slider.js the-blocks/importantpost.js the-blocks/postbycategory.js the-blocks/firstpost.js the-blocks/rightsidebar.js the-blocks/footer.js the-blocks/comments.js the-blocks/footercontainer.js the-blocks/relatedposts.js the-blocks/mypost.js the-blocks/page.js",
+    "dev": "wp-scripts start",
+    "devFast": "wp-scripts start",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@wordpress/icons": "^9.1.0",
+    "@wordpress/scripts": "*"
+  }
+}

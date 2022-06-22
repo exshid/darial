@@ -1,0 +1,117 @@
+.offcanvas {
+
+    box-shadow: rgba(17, 17, 26, 0.05) 0px 1px 0px, rgba(17, 17, 26, 0.1) 0px 0px 8px;
+    background-color: white !important;
+
+}
+
+#respond,
+.dropdown-divider,
+.dropdown-menu,
+header,
+.sidebarcontent,
+.postbycategorycontainer,
+.wp-site-blocks,
+body,
+.content,
+.contentrecent {
+    background-color: white !important;
+    color: grey !important;
+}
+
+a {
+    color: #480323 !important;
+}
+
+a:hover {
+    color: #A0144F !important;
+}
+
+.form-control {
+    background-color: white !important;
+}
+
+.content:hover {
+    background-color: whitesmoke !important;
+}
+
+#wpadminbar a,
+.titlespan a,
+#background a {
+    color: whitesmoke !important;
+}
+
+
+::selection {
+    color: white;
+}
+
+.btn-outline-dark {
+
+    color: #111216 !important;
+}
+
+.pageinner p {
+    color: grey !important;
+}
+
+#comment {
+
+    background-color: white !important;
+    border: 1px solid grey !important;
+    color: grey !important;
+}
+
+
+
+#email,
+#author,
+#url {
+    background-color: #fff;
+    color: grey;
+
+}
+
+.comment-form-email,
+.comment-form-author,
+.comment-form-url {
+    border: 1px solid grey;
+
+}
+
+#tags {
+    color: white;
+}
+
+.form-control:focus {
+    box-shadow: 0 0 0 .25rem rgba(253, 10, 53, .25) !important;
+}
+
+.load_more a,
+.name-and-picture a,
+.bycategories a {
+    color: white !important;
+}
+
+
+.btn-outline-danger {
+    --bs-btn-color: grey !important;
+    --bs-btn-border-color: #ced4da !important;
+}
+
+.container-fluid .search-field,
+.search-field:focus {
+    color: grey !important;
+}
+
+.comment-author,
+.comment-metadata,
+footer {
+    background-color: white !important;
+    color: grey !important;
+}
+
+.veryimportantcontent a,
+.btn-see-all {
+    color: white !important;
+}
